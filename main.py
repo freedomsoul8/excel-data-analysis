@@ -1,6 +1,5 @@
-import numpy
 import pandas as pd
-import openpyxl
+
 
 data_file = 'data.xlsx'
 result_file = ''
